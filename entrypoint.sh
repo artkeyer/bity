@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=45547c5b-4b67-49dd-84e8-0a3084b53dcb
-WSPATH=/meitnf
+UUID=45547c5b-4b67-49dd-84e8-0a3048b35bcd
+WSPATH=/meit
 PORT=80
 
 
